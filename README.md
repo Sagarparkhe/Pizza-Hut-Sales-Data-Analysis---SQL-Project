@@ -32,6 +32,10 @@ To make sense of the sales data, I developed a robust relational data model cons
 
 This data model allows for seamless data retrieval through well-structured SQL queries, providing a comprehensive view of sales trends, revenue, and customer preferences.
 
+
+![Pizza Sales Analysis_page-0003](https://github.com/user-attachments/assets/03ece5d4-fb35-4a82-a0d6-76eae8603fa9)
+
+
 💡 **Key Insights and Results**
 
 Through this analysis, I uncovered several valuable insights:
