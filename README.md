@@ -52,11 +52,11 @@ A detailed examination of order distribution across different times of the day, 
 
 This analysis enables businesses to:
 
-Understand customer demand: By identifying top-selling pizzas and preferred sizes, businesses can better cater to customer needs.
+**Understand customer demand:** By identifying top-selling pizzas and preferred sizes, businesses can better cater to customer needs.
 
-Optimize offerings: Adjust menu items based on revenue contribution and customer preferences.
+**Optimize offerings:** Adjust menu items based on revenue contribution and customer preferences.
 
-Drive growth: Leverage data-driven insights to shape marketing strategies, manage inventory, and boost revenue.
+**Drive growth:** Leverage data-driven insights to shape marketing strategies, manage inventory, and boost revenue.
 
 **💻 Technology Used**
 
@@ -65,3 +65,36 @@ Drive growth: Leverage data-driven insights to shape marketing strategies, manag
 **Relational Database:** Structured data modeling to facilitate efficient queries.
 
 **Data Visualization:** Optional for presenting the results (if applicable).
+
+**🛠️ Key SQL Queries**
+
+Here are some of the key SQL queries I used in this project:
+
+![Pizza Sales Analysis_page-0016](https://github.com/user-attachments/assets/e0b4849c-8910-4a2c-9ed7-a63a00f96e4a)
+
+
+![Pizza Sales Analysis_page-0015](https://github.com/user-attachments/assets/123f0da2-94bc-4a34-a10a-a21e2bfe5526)
+
+
+![Pizza Sales Analysis_page-0014](https://github.com/user-attachments/assets/487c0284-c594-4123-91fa-5a7babc74087)
+
+
+![Pizza Sales Analysis_page-0010](https://github.com/user-attachments/assets/6fafcc48-890d-4e5f-bff9-fcd692445b14)
+
+
+**🤝 Let's Connect!**
+
+If you're interested in discussing how SQL can help unlock valuable insights from data, or if you want to collaborate on similar projects, feel free to connect with me! I'm excited to explore more opportunities in data analysis and business intelligence.
+
+**📂 Project Structure**
+
+**queries.sql:** Contains all SQL queries used for this analysis.
+
+**data_model.png:** The visual representation of the data model.
+
+**presentation.pptx:** PowerPoint presentation showcasing the project results and insights.
+
+Thank you for taking the time to explore this project! Your feedback and suggestions are always welcome. 😊
+
+
+
