@@ -1,4 +1,4 @@
-Pizza Hut Sales Data Analysis - SQL Project
+**Pizza Hut Sales Data Analysis - SQL Project**
 
 Welcome to the Pizza Hut Sales Data Analysis project, where I utilized SQL to extract meaningful insights from a comprehensive pizza sales dataset. This project delves into customer preferences, sales trends, and revenue generation, showcasing how SQL can be leveraged for data-driven decision-making and business growth.
 
